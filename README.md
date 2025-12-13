@@ -1,6 +1,6 @@
 # Diabetic Retinopathy Detection Using Convolutional Neural Networks (CNN)
 
-An automated system designed to detect Diabetic Retinopathy from retinal fundus images using deep learning, aimed at supporting early diagnosis and reducing preventable vision loss.
+As imple automated system designed to detect Diabetic Retinopathy from retinal fundus images using deep learning, aimed at supporting early diagnosis and reducing preventable vision loss.
 
 ## About
 
@@ -37,7 +37,7 @@ This system addresses these challenges by providing a fast, scalable, and highly
 Additional Dependencies: Includes NumPy, Pandas, Matplotlib, scikit-learn, TensorFlow/PyTorch, OpenCV, and Pillow for data handling and deep learning operations.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
+
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/85ee1ffa-fd70-43ca-b1ae-035de1dfcad2" />
 
@@ -45,20 +45,14 @@ Additional Dependencies: Includes NumPy, Pandas, Matplotlib, scikit-learn, Tenso
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Registration Page
+#### Output 1- Uploading Input Image
 
-![1](https://github.com/user-attachments/assets/83981381-773e-4ad2-964e-9376bd856083)
+![alt text](image.png)
+![alt text](image-1.png)
 
+### Output 2-Result
 
-#### Output2 - Result Section
-
-![7](https://github.com/user-attachments/assets/afc497da-a8a7-4d47-8fa6-22d8cc6964f1)
-
-
-Detection Accuracy: 96.7%
-
-
+![alt text](image-3.png)
 
 ## Results and Impact
 
